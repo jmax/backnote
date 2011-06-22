@@ -9,3 +9,8 @@
 //= require json2.js
 //= require underscore-min.js
 //= require backbone.js
+//= require jquery.dotimeout.js
+//= require ./backnote/backnote.js
+//= require_tree ./backnote/models/
+//= require_tree ./backnote/controllers/
+//= require_tree ./backnote/views/notes/
